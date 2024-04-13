@@ -2,4 +2,4 @@
 
 ```/bin/:```
 
-> basic programs  (Default programm will be here like 'java', 'python', 'chmod'
+> basic programs  (Default programs will be here like 'java', 'python', 'chmod', ..etc)
