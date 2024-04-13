@@ -14,3 +14,6 @@
 ```/etc/:```          
 > configuration files (Here server files are contain like 'Apache server' or FTP 'server')
 
+```/home/:```
+> user's personal files (Here User's file will be there)
+
