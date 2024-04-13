@@ -10,3 +10,7 @@
 
 ```/dev/:```
 > device files (hardware device information are stored here, like 'Mouse', 'keyboard','pendrive')
+
+```/etc/:```          
+> configuration files (Here server files are contain like 'Apache server' or FTP 'server')
+
